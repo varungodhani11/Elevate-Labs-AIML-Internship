@@ -105,3 +105,56 @@ Elevate-Labs-AIML-Internship/
 │   └── data/
 │
 └── README.md
+
+---
+
+## 🎯 Internship Learning Outcomes
+
+Through these projects, I gained practical experience in:
+
+- Machine Learning model development
+- Supervised and unsupervised learning
+- Data preprocessing and exploratory data analysis
+- Imbalanced classification
+- Natural Language Processing and text classification
+- Feature engineering
+- Model evaluation and comparison
+- Threshold optimization
+- Model deployment using Streamlit
+- Git and GitHub project management
+- Structuring end-to-end Machine Learning projects
+
+---
+
+## 🚀 Live Applications
+
+Both projects include deployed Streamlit applications.
+
+- **Fraud Detection:** Live Streamlit application
+- **News Article Classification:** Live Streamlit application
+
+The live application links are available in the respective project `README.md` files.
+
+---
+
+## 📄 Project Documentation
+
+Detailed project documentation, implementation notebooks, trained models, application source code, and setup instructions are available inside the respective project folders.
+
+---
+
+## 👨‍💻 Author
+
+**Varun Godhani**
+
+B.Tech – Artificial Intelligence and Data Science
+
+GitHub: [@varungodhani11](https://github.com/varungodhani11)
+
+---
+
+## 📌 Internship
+
+**Elevate Labs – AI/ML Internship**
+
+This repository contains the projects completed as part of the internship project work.
