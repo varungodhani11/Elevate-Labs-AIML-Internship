@@ -12,7 +12,8 @@ The projects demonstrate practical implementation of Machine Learning, Natural L
 
 An end-to-end Machine Learning project for identifying potentially fraudulent credit card transactions.
 
-**Key techniques used:**
+**Key Techniques Used:**
+
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
 - Handling highly imbalanced data
@@ -26,10 +27,12 @@ An end-to-end Machine Learning project for identifying potentially fraudulent cr
 - Batch prediction
 - Streamlit web application
 
-**Main technologies:**
+**Main Technologies:**
+
 `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Streamlit` `Joblib`
 
-**Project folder:**  
+**Project Folder:**
+
 `Fraud-Detection-in-Credit-Card-Transactions/`
 
 The project includes the trained model, Jupyter Notebook, prediction module, Streamlit application, requirements file, and project documentation.
@@ -40,7 +43,8 @@ The project includes the trained model, Jupyter Notebook, prediction module, Str
 
 An NLP-based Machine Learning project for classifying news articles as **Fake** or **Real**.
 
-**Key techniques used:**
+**Key Techniques Used:**
+
 - Text preprocessing
 - Tokenization
 - Stopword removal
@@ -52,10 +56,12 @@ An NLP-based Machine Learning project for classifying news articles as **Fake** 
 - Confusion Matrix
 - Streamlit web application
 
-**Main technologies:**
+**Main Technologies:**
+
 `Python` `Pandas` `NLTK` `Scikit-learn` `TF-IDF` `Joblib` `Streamlit`
 
-**Project folder:**  
+**Project Folder:**
+
 `News-Article-Classification/`
 
 The project includes the Jupyter Notebook, trained models, TF-IDF vectorizer, Streamlit application, requirements file, and documentation.
@@ -105,56 +111,3 @@ Elevate-Labs-AIML-Internship/
 │   └── data/
 │
 └── README.md
-
----
-
-## 🎯 Internship Learning Outcomes
-
-Through these projects, I gained practical experience in:
-
-- Machine Learning model development
-- Supervised and unsupervised learning
-- Data preprocessing and exploratory data analysis
-- Imbalanced classification
-- Natural Language Processing and text classification
-- Feature engineering
-- Model evaluation and comparison
-- Threshold optimization
-- Model deployment using Streamlit
-- Git and GitHub project management
-- Structuring end-to-end Machine Learning projects
-
----
-
-## 🚀 Live Applications
-
-Both projects include deployed Streamlit applications.
-
-- **Fraud Detection:** Live Streamlit application
-- **News Article Classification:** Live Streamlit application
-
-The live application links are available in the respective project `README.md` files.
-
----
-
-## 📄 Project Documentation
-
-Detailed project documentation, implementation notebooks, trained models, application source code, and setup instructions are available inside the respective project folders.
-
----
-
-## 👨‍💻 Author
-
-**Varun Godhani**
-
-B.Tech – Artificial Intelligence and Data Science
-
-GitHub: [@varungodhani11](https://github.com/varungodhani11)
-
----
-
-## 📌 Internship
-
-**Elevate Labs – AI/ML Internship**
-
-This repository contains the projects completed as part of the internship project work.
