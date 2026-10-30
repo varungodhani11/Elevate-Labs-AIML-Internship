@@ -156,8 +156,6 @@ Implemented K-Nearest Neighbors classification using the Iris dataset.
 - Test Accuracy: **96.67%**
 - Correct test predictions: **29/30**
 
-> Task 6 is included as an additional Machine Learning classification task in this repository.
-
 ---
 
 ## 🚀 End-to-End AI/ML Projects
